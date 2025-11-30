@@ -224,4 +224,4 @@ git branch -d hello-world-images
 Deleted branch hello-world-images (was 1f1584e).
 Now you have a better understanding of how branches and merging works.
 
-Time to start working with a remote repository!
+Time to start working with a remote repository   !
